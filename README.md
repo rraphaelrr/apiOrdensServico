@@ -22,7 +22,7 @@ Essa API foi desenvolvida com NestJS, TypeScript e PostgreSQL com o objetivo de 
 ## 1. Clonar o projeto
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/rraphaelrr/apiOrdensServico.git
 cd ordens-servico-api
 ```
 
@@ -271,8 +271,3 @@ O projeto está dividido em camadas:
 * Middleware: logs
 * Filter: tratamento de erros
 
----
-
-# Considerações finais
-
-O projeto cobre os requisitos propostos, incluindo autenticação, validação, documentação e organização em camadas. Foi pensado para ser simples de entender e fácil de rodar.
